@@ -1,0 +1,12 @@
+{
+  "name": "meu-portifolio",
+  "version": "1.0.0",
+  "description": "meu portifolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["MERN","MongoDB","Express","Node.js","React.js"],
+  "author": "Lucas Dias Barreto",
+  "license": "ISC"
+}
